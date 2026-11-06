@@ -9,6 +9,6 @@
  * While these are empty, the Cloud (Firebase) card in Settings shows that cloud publishing is not set up.
  */
 window.ENT_FIREBASE = {
-  apiKey: '',
-  projectId: ''
+  apiKey: 'AIzaSyD9VJySupu5jEzHeiee7QUWPegdLQ5dzpc',
+  projectId: 'all-admin-15a16'
 };
