@@ -1,0 +1,37 @@
+{
+  "id": "/",
+  "name": "Adam QBank — Admin",
+  "short_name": "QBank Admin",
+  "description": "Content management tool for Adam QBank: manage specialties, categories and sections, then import, classify and publish questions for each specialty.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "categories": [
+    "education",
+    "medical",
+    "reference"
+  ],
+  "background_color": "#f3f6fa",
+  "theme_color": "#102d49",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
